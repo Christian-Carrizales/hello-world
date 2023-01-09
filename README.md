@@ -1,6 +1,6 @@
 # hello-world
-
-Hello
-
-Christian-Carrizales: I like to draw graffiti.
-There are many styles of graffiti.
+class Main {
+  public static void main(String[] args) {
+    System.out.println("hello world!");
+  }
+}
